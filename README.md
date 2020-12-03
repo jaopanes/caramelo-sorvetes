@@ -6,6 +6,7 @@ Esse projeto corresponde a um trabalho desenvolvido para a matéria de Desenvolv
 - [X] Autoload das classes
 - [X] Conexão com banco de dados
 - [X] Construção da camada de visão
+
 Utilizando somente funcionalidades do PHP puro
 
 ## Requisitos para a aplicação
